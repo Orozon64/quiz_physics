@@ -2,7 +2,7 @@
   "name": "quiz",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://orozon64.github.io/react-gh-pages",
+  "homepage": "https://orozon64.github.io/quiz_physics",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
