@@ -8,7 +8,7 @@ function App() {
 
   const questions_and_answers = [
     ["Ile jest praw dynamiki Newtona?", "1", "2", "3", "4"],
-    ["Eksperyment którego z tych naukowców wprowadził koncept \"zimnej fuzji\"?", "Martina Fleischmanna", "Lise Meitner", "Andrei Ghez", ""],
+    ["Eksperyment którego z tych naukowców wprowadził koncept \"zimnej fuzji\"?", "Martina Fleischmanna", "Lise Meitner", "Andrei Ghez", "Davida Lee"],
     ["Które z poniższych należą do 4 fundamentalnych sił Wszechświata?", "Grawitacja", "Elektromagnetyzm", "Silne oddziaływanie", "Wszystkie z powyższych"],
     ["Filmowa biografia którego fizyka nosi tytuł \"Teoria wszystkiego\"?", "Alberta Ensteina", "Richarda Feynmana", "Stephena Hawkinga", "Nielsa Bohra"],
     ["Plazma to:", "Ciecz o bardzo wysokiej temperaturze", "Zjonizowany gaz", "Ciało stałe o krystalicznej strukturze", "Żadne z powyższych"],
